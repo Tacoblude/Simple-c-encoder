@@ -4,7 +4,7 @@ Simple c++ encoder
 Types of encryption/decryption include:  
 Substutution chyper  
   
-    //==========SSC==========\\  
+  //==========SSC==========\\  
 ssc Stands for simple substutution chyper  
 ssce() Is for encypting using a substutution chyper  
 ssce(<Text to encrypt>)  
