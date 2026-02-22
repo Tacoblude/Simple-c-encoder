@@ -1,4 +1,4 @@
-# Simple-c++-encoder  
+Simple c++ encoder  
 //Simple text encoder library\\  
 Types of encryption/decryption include:  
 Substutution chyper  
