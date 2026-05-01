@@ -121,11 +121,11 @@ else if(a==':'){out=':';}
 else if(a=='t'){out=';';}
 else{std::cout <<"char not supported\n"; exit(0);}output=output+out;}return output;}
 //password encryption
-std::string spe(std::string text, std::string pass){
-std::string output; char a, b, out; int length, length1;
-length = text.length();
-length1 = pass.length();
-for(int j=0; j<length1;i++ ){
-b = pass[j];
-}
-}
+//std::string spe(std::string text, std::string pass){
+//std::string output; char a, b, out; int length, length1;
+//length = text.length();
+//length1 = pass.length();
+//for(int j=0; j<length1;i++ ){
+//b = pass[j];
+//}
+//}
