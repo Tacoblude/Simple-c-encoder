@@ -1,5 +1,12 @@
-//this file is to test if it works 
-#include <STE_HPP>
-
+//this file is to test if it works
+#include "ste.hpp"
+#include <string>
+#include <iostream>
 int main(){
-  std::cout <<return ssce("testtest");}
+  std::string text1 = ssce("testtest");
+  std::cout <<text1;}
+
+
+
+
+
